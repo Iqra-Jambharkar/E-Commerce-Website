@@ -311,9 +311,9 @@ ul li a:hover,ul li a#active{
     background-color: #fff;
     padding: 30px;
     position: absolute;
-    left: 50%;
+    left: 35%;
     right: 50%;
-    top: -11%;
+    top: -9%;
     border-radius: 10px;
     transform: translate(-50%, 40%);
 }
